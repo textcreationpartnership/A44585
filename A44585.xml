@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine letters sent from Sir Iohn Hotham, young Hotham, the major of Hull, and others intercepted, and brought to court to His Majestie, April 16.</title>
+            <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44585</idno>
+            <idno type="STC">Wing H2903</idno>
+            <idno type="STC">ESTC R38985</idno>
+            <idno type="EEBO-CITATION">18202993</idno>
+            <idno type="OCLC">ocm 18202993</idno>
+            <idno type="VID">107052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1125:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine letters sent from Sir Iohn Hotham, young Hotham, the major of Hull, and others intercepted, and brought to court to His Majestie, April 16.</title>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+                  <author>Hotham, John, d. 1645 Jan. 1.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>M.DC. XLIII [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107052:1"/>
+            <p>CERTAINE LETTERS Sent from Sir IOHN HOTHAM, Young HOTHAM, the Major of HULL, and others.</p>
+            <p>Intercepted, and brought to Court to His MAJESTIE, <hi>April</hi> 16.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Henry Hall.</hi> M.DC.XLIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107052:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THeſe Intercepted Letters which we here impart to thee are exactly printed without the le iſt alteration of word or ſpelling from the Originalls which the Printer hath in his cuſtody under the Authors owne hands and ſeales.</p>
+            <list>
+               <item>The firſt letter ſuperſcribed to M<hi rend="sup">r</hi> 
+                  <hi>Pym,</hi> From Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham.</hi>
+               </item>
+               <item>The ſecond to Sir <hi>Matthew Boynton,</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Nye,</hi> From Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham.</hi>
+               </item>
+               <item>The third to Sir <hi>Thomas Barrington,</hi> From Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham.</hi>
+               </item>
+               <item>The fourth to S<hi rend="sup">r</hi> 
+                  <hi>Philip Stapleton,</hi> From Young <hi>Hotham.</hi>
+               </item>
+               <item>The fifth to one M<hi rend="sup">r</hi> 
+                  <hi>Darly,</hi> From Young <hi>Hotham.</hi>
+               </item>
+               <item>The ſixth to M<hi rend="sup">r</hi> 
+                  <hi>Pelham</hi> Burgeſſe of <hi>Hull</hi> from the Major and others of that incorporation.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="letters_from_Sir_John_Hotham">
+            <div n="1" type="letter">
+               <pb n="1" facs="tcp:107052:2"/>
+               <head>1<hi rend="sup">ſt</hi> FOR MY MVCH HONOVRED friend IOHN PYM Eſquire.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Received yours of the 4 of <hi>Aprill</hi> with the Orders incloſed; for which I deſire you will preſent my humble ſervice to the Houſe, I heare from many of my friends as well as from your ſelfe, the jealouſies was ſo uppon mee by reaſon of that fact of Sir <hi>Hugh Cholmeley's,</hi> it is the Evening Crownes the day, and I hope to make it in the end well appeare they were without cauſe; I confeſſe, I much marveile how ſuch things ſhould find the leaſt beleife, being that I have ever ſince I was truſted by you in this imploiment ſerved you to the beſt of my Judgment, not according to the ſtrict letter of my Commiſſi<g ref="char:EOLhyphen"/>on, but have acted all things both here and in other places that I thought might conduce to the advancement of your ſervice. I have now ſent ſome good force both of horſe and foote into <hi>Lincolneshire,</hi> and my ſonne with them to the aid of our friends there; I aſſure you if Prince <hi>Rupert</hi> with his forces come downe into theſe parts, unleſſe you ſend forces downe to attend up<g ref="char:EOLhyphen"/>on him, all theſe parts will be in very bad eſtate, if there were any conſiderable forces to fight with my Lord of <hi>Newcaſtle,</hi> before his new raiſed men be with exerciſe made ſoldiers, tru<g ref="char:EOLhyphen"/>ly I beleeve the victory would not be very difficult, but if you ſuffer Prince <hi>Rupert</hi> and him to joyne together, though ſouldi<g ref="char:EOLhyphen"/>ers that are now of noe value will within a while be as good as the other.</p>
+               <p>That buſineſſe of <hi>Scarbrough</hi> Caſtle of which I writ to you in my laſt letter is fallen out unfortunately, for Captaine <hi>Bushell</hi> after he had ſurpriſed the Caſtle and was in full poſſeſ<g ref="char:EOLhyphen"/>ſion of it diſpatch't a meſſenger to mee for inſtant aid, which I
+<pb n="2" facs="tcp:107052:3"/>preſently ſent him with two Catches, he in the meane time moſt treacherouſly delivered the Caſtle, and had the impu<g ref="char:EOLhyphen"/>dence to come to mee to <hi>Hull,</hi> I have clapt him up cloſe priſo<g ref="char:EOLhyphen"/>ner, and intend to call him to a Councell of war<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, there to bee puniſhed according to his Demerits, if ſuch Villaines be not made examples noe man will be deterr'd from doing ill.</p>
+               <p>I have received your order for the cuſtomes and have recei<g ref="char:EOLhyphen"/>ved of M<hi rend="sup">r</hi> 
+                  <hi>Somerfield</hi> betwixt foure and five hundred pound, being all he had in his hand, my order is for the time to come, &amp; this was of mony in his hand before the receipt of my order, therefore I pray you Sir by the next poſt ſend him a diſcharge for that mony, which I have promiſed him to procure the cu<g ref="char:EOLhyphen"/>ſtomes by reaſon of the decay of trade heare I feare will not be above 100<hi rend="sup">
+                     <abbr>l</abbr>
+                  </hi> in the weeke at moſt, which you know how farr ſhort it will come of our pay, I ſhall therefore intreat that you will not faile to ſpeede us downe money, for in good faith elſe your affaires will ſuffer irrecoverably without my power to helpe it. I have during almoſt all the time of your buſineſſe mainteined 4 troopes of horſe, 4 troopes of dragoones, a Re<g ref="char:EOLhyphen"/>giment of foot without any charge to you more then the <hi>pub<g ref="char:EOLhyphen"/>lique faith,</hi> I conceive then you may be better ſatisfied to pay this garriſon which cannot ſhift without it, Sir this is all I have for the preſent but his beſt reſpect who ever is.</p>
+               <closer>
+                  <signed>Your moſt humble ſervant <hi>IOHN HOTHAM.</hi>
+                  </signed>
+                  <dateline>Hull <date>
+                        <hi>the</hi> 7<hi rend="sup">th</hi> 
+                        <hi>of April.</hi> 1643.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>Sir, you muſt needs ſend us down two <hi>Demi-Cannon,</hi> and we ſhall make a ſhift for the reſt: There is one approach to the towne and we want great peices to hinder that, ſo as you muſt needs ſend us downe two <hi>Demi-Cannon,</hi> we ſent you divers good ones from hence, if you ſend them downe I pray doe it by the next Ship and ſend bullets with them.</p>
+               </postscript>
+            </div>
+            <div n="2" type="letter">
+               <pb n="3" facs="tcp:107052:3"/>
+               <head>2<hi rend="sup">d</hi>. For my much honoured friends Sir <hi>Mat<g ref="char:EOLhyphen"/>thew Boynton</hi> Knight and Baronet, and Maſter <hi>Nay</hi> Preacher of Gods Word, theſe.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I Received yours of the 4 of <hi>Aprill.</hi> and in a letter from Sir <hi>William Stricland,</hi> the order for receiving the Cuſtomes. they were uſually before theſe ill times 7 and 800<hi rend="sup">
+                     <abbr>l</abbr>
+                  </hi> a weeke, I feare they will not be for the preſent 100<hi rend="sup">
+                     <abbr>l</abbr>
+                  </hi> a weeke. ſoe that you ſee in what caſe we are at, I deſire you will doe the utmoſt with our friends, that the 6000<hi rend="sup">
+                     <abbr>l</abbr>
+                  </hi> whereof I have had one may be ſent ſpeedily downe, truely I am driven to my wits end for monies. The newes you heard of my Lord <hi>Fairefax</hi> loſſe was too true, he had 700 of his Club men Caried priſoners into <hi>Yorke</hi> where they now are. My Lord <hi>Fairefax</hi> is now at <hi>Leedes,</hi> and my Lord <hi>Newcaſtle</hi> is drawen with moſt of his forces into the Weſt: Major <hi>Jefford</hi> is Battering <hi>Pomfret</hi> Caſtle, while the other increaſeth in ſtrength and reputation; we take it heere for granted Prince <hi>Rupert</hi> is comming Northward, if ſome ſtronge forces march not in the Backe of him, our forces in <hi>Yorkeſhire</hi> will ſubſiſt but a while. My ſonne at the Extreame earneſt ſoli<g ref="char:EOLhyphen"/>citation of our <hi>Lincolneſhire</hi> friends, is to morrow ſettinge for<g ref="char:EOLhyphen"/>wards to their aſſiſtance, with ſome troopes of horſe and two ſtrong companies of foote, he is to command in chiefe all their forces, I hope with Gods bleſſing he will give a good account of his actions. In the Buſineſſe of <hi>Scarbrouge</hi> Caſtle we are be<g ref="char:EOLhyphen"/>trayed. <hi>Buſhell</hi> hath ſurrendered the Caſtle; and my Catches I ſent to his aid, like fooles contrarie to my expreſſe order ente<g ref="char:EOLhyphen"/>red the Haven, and are ſurpriſed. yet had <hi>Buſhell</hi> the impu<g ref="char:EOLhyphen"/>dence to come to <hi>Hull,</hi> where I have him faſt, and intend to Judge him according to his deſerts by a Councell of war; ſuch villaines cannot ſuffer ſufficiently. For thoſe letters of Marte,
+<pb n="4" facs="tcp:107052:4"/>I thinke it not amiſſe to leave them for the preſent: If it were not for thoſe fooliſh Jealoſies<g ref="char:punc">▪</g> (which I endeavour to avoyd) I dare ſay at this time I could have done the Parliament more ſervice then all the actions I ever did them was worth; but I dare not adventure upon it I ſaw my ſelfe ſo much miſtaken, as God willing it ſhall well appeare in the End: S<hi rend="sup">r</hi> I am ſoe much your debtor for your ſo painfull a journey as I know not how to requite. But upon all occaſions you ſhall ever finde mee<g ref="char:punc">▪</g>
+               </p>
+               <closer>
+                  <signed>Your moſt faithfull friend <hi>IOHN HOTHAM.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Hull</hi> 
+                     <date>7<hi rend="sup">th</hi> 1643.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>We heare there is an Order of Parliament for the ſequeſtra<g ref="char:EOLhyphen"/>tion of the ſpirituall liveings of the malignant prieſts; if it be ſo theire is three good livings, within 10 miles of <hi>Hull,</hi> the leaſt worth 200<hi rend="sup">
+                        <abbr>l</abbr>
+                     </hi>
+                     <hi>per annum,</hi> I could diſpoſe to three good friends: I pray ſee what may be done in it.</p>
+                  <p>If their be any good to be done for the ſequeſtrations of theſe livings Maſter <hi>Nie,</hi> my Coſen <hi>Salt-marſhe,</hi> and my ſonne <hi>Charles</hi> might well ſupply thoſe three places, and they are within the protection of <hi>Hull;</hi> the livings are <hi>Bainton, Elton, Lockington.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div n="3" type="letter">
+               <pb n="5" facs="tcp:107052:4"/>
+               <head>3<hi rend="sup">d</hi> For my much honoured friend Sir THO<g ref="char:EOLhyphen"/>MAS BARRINGTON Knight, theſe.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I Received yours of the 29 of <hi>March,</hi> and muſt give you ma<g ref="char:EOLhyphen"/>ny thanks for the expreſſions of your love and favour to me; but thoſe jealouſies that I heare are raiſed upon me, I hope in God it ſhall well appeare that as I have ever abhorred from the deceaving of the leaſt private friend that truſted me, I ſhall much more be farre from betraying a truſt put upon me by ſo great a body as the Houſe of Parliament. It is the evening Crownes the day.</p>
+               <p>I heare that this unfortunate buſineſſe of Sir <hi>Hugh Cholmelies</hi> did in the opinion of many reflect upon me, but truely without all cauſe, as ſhall well appeare in the end. Captaine <hi>Buſhell</hi> as I writt in your former letters had ceaſed on <hi>Scarbrough</hi> Caſtle and diſpatch't away a poſt to me to ſend him aide, which I ſuddainely ſent him in two Catches, but he as I conceive hath treacherouſly ſurrender'd up the Caſtle, and my Catches coming thither, contrary to my order entred the place, and weare both ſurpriſed; Captaine <hi>Buſhell</hi> as ſoone as he had yeilded upp the Caſtle had the impudence to come hither to <hi>Hull,</hi> I ſuppoſe with the intent to work ſome further miſcheife, but I have clapt him cloſe, and intend to call him to a Coun<g ref="char:EOLhyphen"/>cell of warre, for betraying the Caſtle which he had once in his power, and my Catches; and if ſuch villains be not puni<g ref="char:EOLhyphen"/>ſhed noe man will be true.</p>
+               <p>My Lord <hi>Fairefax</hi> hath 700 of his clubb-men ſlaine and taken priſoners, his quitting his quarters at <hi>Selby</hi> being as we conceive againſt all reaſon, and I feare will prove prejudiciall
+<pb n="6" facs="tcp:107052:5"/>to his affaires, My Lord of <hi>Newcaſtles</hi> forces are many of them gonne towards the weſt, God ſend us a good iſſue, Sir I have no more at this but his beſt reſpects who ever is</p>
+               <closer>
+                  <signed>Your faithfull friend to ſerve you, <hi>IOHN HOTHAM.</hi>
+                  </signed>
+                  <dateline>Hull <date>
+                        <hi>the</hi> 7<hi rend="sup">th</hi> 
+                        <hi>of Aprill</hi> 1643.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="letters_from_Young_Hotham">
+            <div n="1" type="letter">
+               <pb n="7" facs="tcp:107052:5"/>
+               <head>4<hi rend="sup">th</hi>. For my much honored brother Sir <hi>Philip Stapylton</hi> Knight theſe preſent.</head>
+               <opener>
+                  <salute>Noble Sir,</salute>
+               </opener>
+               <p>I Doupt not but you that are upon the*** have a great deale better intelligence then we can expect here, yet ſomething ſees the by-ſtander that the gamſter doth not. I have ſome cauſe to beleive that a very great part of the Kings Army will with ſpeed march from <hi>Oxford</hi> to <hi>Yorke,</hi> and that <hi>Oxford</hi> will be left only with the Kings Perſon and ſome 3000 to guard it, and countenance his party; and the 2 Armies be joyned, if you follow not, you may eaſily gueſſe in what condition theſe Nor<g ref="char:EOLhyphen"/>thern counties will be in, that now can hardly defend them<g ref="char:EOLhyphen"/>ſelves. Sir, I ſhall not take upon me to offer any thing to you in a buſineſſe of ſo great weight as this, but to deſire from you ſome directions for the management of our buſineſſe here, for my Lord <hi>Fairefax</hi> lies in the Weſt, wee in the Eaſt, and ſome few at <hi>Lincoln,</hi> ſo divided as neither able to do the publike good nor our ſelves. My Lord <hi>Fairfax</hi> hath I doupt preſuming too much upon the fooliſh clubb-men loſt a matter of 700 of them, yett is in condition good enough yett to keepe from being broken if it be well managed, as M<hi rend="sup">r</hi> 
+                  <hi>Stockdale</hi> will doe it you will think; the worſt is leaving <hi>Selby, Cawood</hi> and thoſe quarters he hath put himſelfe out of any poſſibility of being ſupplied with ammunition; <hi>Sir,</hi> if the Counſells at Court alter not, this was the laſt reſolution. My Lord <hi>Newcaſtle</hi> hath raked up a great many men but wants armes for ſome; Sir <hi>Hugh Cholmely</hi> hath given us the ſlip, and Captaine <hi>Buſhell</hi> tooke the Caſtle for us one day, and let them have it the next. THE SCOTS ARE SCOTS, ALL'S LOST HERE WITH TRUSTING TO THEM. Sir
+<pb n="8" facs="tcp:107052:6"/>
+                  <hi>John Seton</hi> hath betrayed them in <hi>Lancaſhire.</hi> Your goods are all ſafe at <hi>Hull,</hi> and the quicke goods in <hi>Holderneſſe;</hi> Colonell <hi>Boynton</hi> never toucht any of them; I thought it was time to re<g ref="char:EOLhyphen"/>move them when Sir <hi>Marmaduke</hi> had ſent for his from them. I have ſent 2 good Foote companies to help them in <hi>Lincolne-ſhire,</hi> and will follow my ſelfe preſently. Sir, I ſhall ever remaine your moſt affectionate Brother to ſerve you.</p>
+               <closer>
+                  <dateline>Beverly <date>
+                        <hi>Aprill</hi> 7<hi rend="sup">th</hi> 1643.</date>
+                  </dateline>
+                  <signed>IOHN HOTHAM</signed>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>Sir, if our army follow the Prince you will have 5 or 6000 good men to joyne with you, if you delay time they may well come to be broken.</p>
+               </postscript>
+            </div>
+            <div n="2" type="letter">
+               <pb n="9" facs="tcp:107052:6"/>
+               <head>5<hi rend="sup">th</hi>. For my much honored friend HENRY DARLY Eſquire theſe preſent.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I Should be gladder to ſee our BRETHREN then to heare of them, <hi>they have talked of comming long, but all is words,</hi> and the enemy mightily ſtrengthens in the mean time. <hi>I would the Treaty were at an end, for I think neither North, nay nor South intend it, and I have ſome reaſons to beleive ſo; and ſo I wiſh with all my hart we might hancker no more after it but fall to good earneſt. Buſhell</hi> hath as baſely given up the Caſtle, as he ſeemed bravely to regaine it, and hath to boote betrayd our two Cattches with 10 peice of ordinance and 80 men that was ſent from <hi>Hull</hi> to releive itt: wee have him cloſe priſonnier and intend the Counſell of war to proceed againſt him according to his high and Capitall of<g ref="char:EOLhyphen"/>fence. My Lord <hi>Fairfax</hi> his ſudden quitting of his ſtrong quar<g ref="char:EOLhyphen"/>ters upon the rivers hath taken all hopes from him of being ſupplied eyther with forces or ammunition from hence. we heare Prince <hi>Rupert</hi> is comming downe with 6000 horſe to the Queene, and then you will think this Country will be in a good condition, unleſſe our army follow faſt which I am a<g ref="char:EOLhyphen"/>fraid they will not. That <hi>unlucky over-ſwelling commiſſion hath undone all our buſineſſe,</hi> Maſter <hi>Stockdale</hi> and his complices have with it given that diſcontent that <hi>all men of courage have left them but their owne clan.</hi> I aſſure you, you will find my Lord <hi>Newcaſtles</hi> Army very numerous, and many good Comman<g ref="char:EOLhyphen"/>ders, and if they have time they will make the ſoldiers good
+<pb n="10" facs="tcp:107052:7"/>too. Sir, if our army follow not, your party here will danger to be broken, Sir I will trouble you noe longer but remayne</p>
+               <closer>
+                  <dateline>
+                     <hi>Beverly</hi> 
+                     <date>
+                        <hi>Aprill</hi> 7<hi rend="sup">th</hi> 1643.</date>
+                  </dateline>
+                  <signed>Your moſt affectionate friend to ſerve you. <hi>IOHN HOTHAM.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>I have ſent two very good foot companies into <hi>Lincolneſhire</hi> and intend to follow as ſoone as I can. <hi>Sir, I heare the Lords would have you diſavow the Captaines for ſhooting at</hi>
+                     <note n="*" place="margin">Where the Queene lan<g ref="char:EOLhyphen"/>ded.</note> Birlington, <hi>pray tell all my friends my opinion, that if you doe, you will diſcourage all men of honor or worth to ſerve you.</hi>
+                  </p>
+               </postscript>
+            </div>
+         </div>
+         <div type="lettter_from_the_Major">
+            <div type="letter">
+               <pb n="11" facs="tcp:107052:7"/>
+               <head>6<hi rend="sup">th</hi>. For the worſhipfull PEREGRINE PEL<g ref="char:EOLhyphen"/>HAM Eſquire, one of the Burgeſſes of Parlia<g ref="char:EOLhyphen"/>ment for the Towne of <hi>Kingſton</hi> upon <hi>Hull,</hi> at his lodging in <hi>Wolſtable</hi> markett in <hi>Weſtm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> theſe.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>We are glad to underſtand by your Letters that you have procured a warrant from the Committee for the ord<g ref="char:EOLhyphen"/>nance to be ſent hither, being aſſured you wil now haſten them away with all ſpeed (as we much deſire:) But withall we thought fitt to ſignifie unto you, that (as the caſe ſtands) ſome care had need to be taken by the ſhipps that bring them, and other our Neighbours at <hi>London,</hi> for convoy; or otherwiſe that they come well appointed; for ſince our laſt writeing un<g ref="char:EOLhyphen"/>to you, <hi>Scarbrough caſtle</hi> which was then taken by Captaine <hi>Bu<g ref="char:EOLhyphen"/>ſhell</hi> (and as was thought) for the Parliament, is delivered up to the Earle of <hi>New-caſtles</hi> Forces; and (as is reported) by Cap<g ref="char:EOLhyphen"/>taine <hi>Buſhells</hi> treachery: who notwithſtanding that his fact re<g ref="char:EOLhyphen"/>turned hither, thinking (as it ſeemes) to brave it out; but is now Sir <hi>John Hothams</hi> priſoner in the Gaole upon ſuſpicion of his voluntary betraying the Caſtle; which if it prove true, he deſerves no leſſe: for by reaſon of Sir <hi>John Hothams</hi> credulity of <hi>Buſhells</hi> fidelity; he forthwith upon <hi>Buſhells</hi> takeing of the Caſtle, ſent him up (as he deſired) ſome men, ordinance, pow<g ref="char:EOLhyphen"/>ther, and amunition in two of his Catches and a Pyncke; who fearing no harme, the two Catches went boldly into <hi>Scar<g ref="char:EOLhyphen"/>brough,</hi> and were there ſurpriſed by the Malignant forces, and the men taken priſoners; which the pyncke perceiving return<g ref="char:EOLhyphen"/>ed hither ſafe: And now (as wee heare) theſe two Catches are well manned and provided; and are roving upp and downe the coaſt waiting their opportunity of priſe. Therefore wee
+<pb n="12" facs="tcp:107052:8"/>pray you uſe your diſcretion in giving notice hereof to our Neighbours. This is all wee have at preſent, ſave the remem<g ref="char:EOLhyphen"/>brance of our loving reſpects to your ſelfe and M<hi rend="sup">ris</hi> 
+                  <hi>Pelham,</hi> and ſo taking leave wee reſt</p>
+               <closer>
+                  <dateline>Kingſton <hi>upon</hi> Hull <date>
+                        <hi>the</hi> 7<hi rend="sup">th</hi> 
+                        <hi>of Aprill.</hi> 1643.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your very l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ving freinds</hi>
+                     <list>
+                        <item>
+                           <hi>Tho. Rickes</hi> Maior,</item>
+                        <item>
+                           <hi>Lancellot Roper,</hi>
+                        </item>
+                        <item>
+                           <hi>Jno Barnard,</hi>
+                        </item>
+                        <item>
+                           <hi>Robbert Morton,</hi>
+                        </item>
+                        <item>
+                           <hi>N. Denman,</hi>
+                        </item>
+                        <item>
+                           <hi>William Popple,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Blandes,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Barnard.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107052:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
